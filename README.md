@@ -72,6 +72,8 @@ The detailed research report is available on Notion:
 
 🔗 **[Security Risks of Pre-Installed Android Apps](https://www.notion.so/Security-Risks-of-Pre-Installed-Android-Apps-1ba7c5d196f480c18047e1528ed77791?pvs=4)**
 
+📌 Disclaimer: This project is for educational and research purposes only. Any misuse of this information is strictly prohibited. 🚨
+
 
 
 
