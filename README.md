@@ -70,7 +70,7 @@ Use Security Tools: Leverage tools like MobSF, VirusTotal, and custom ROMs to en
 ## **📖 Full Report**
 The detailed research report is available on Notion:
 
-🔗 Security Risks of Pre-Installed Android Apps
+🔗 **[Security Risks of Pre-Installed Android Apps](https://www.notion.so/Security-Risks-of-Pre-Installed-Android-Apps-1ba7c5d196f480c18047e1528ed77791?pvs=4)**
 
 
 
